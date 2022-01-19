@@ -1,6 +1,6 @@
 # PythonGame
 
-A top down classic games created using Pygame and Python
+A top down classic game created using Pygame and Python
 
 Tested on Python 3.10.1 and Pygame 2.1.2
 
