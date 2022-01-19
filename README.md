@@ -4,6 +4,12 @@ A top down classic game created using Pygame and Python
 
 Tested on Python 3.10.1 and Pygame 2.1.2
 
+## Packages
+
+- Pygame
+- PyOpenGL
+- PyOpenGL_accelerate
+
 ## Screenshots
 
 ## Controls
