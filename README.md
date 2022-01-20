@@ -1,8 +1,9 @@
 # PythonGame
 
-A top down classic game created using Pygame and Python
+A top down classic game created using Pyglet, OpenGL and Python
 
-Tested on Python 3.10.1 and Pygame 2.1.2
+Tested on Python 3.10.1 and Pyglet 1.5.21
+With Nvidia driver version 497.29
 
 ## Screenshots
 
@@ -14,10 +15,10 @@ Tested on Python 3.10.1 and Pygame 2.1.2
 
 ## Installation
 
-Make sure you have the pygame package installed on your system.
+Make sure you have the Pyglet package installed on your system.
 
-This can be done by doing `pip install pygame` on your command line.
+This can be done by doing `pip install pyglet` on your command line.
 
-Then just run the `game.py` file.
+Then just run the `game.py` file to start the game.
 
 
