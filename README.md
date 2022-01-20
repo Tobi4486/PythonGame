@@ -1,8 +1,8 @@
 # PythonGame
 
-A top down classic game created using Pygame and Python
+A recreatation of a classic game created using GLFW and OpenGL
 
-Tested on Python 3.10.1 and Pygame 2.1.2
+Tested on Python 3.10.1 and GLFW 0.2.2
 
 ## Screenshots
 
@@ -14,9 +14,14 @@ Tested on Python 3.10.1 and Pygame 2.1.2
 
 ## Installation
 
-Make sure you have the pygame package installed on your system.
+Make sure you have the required dependancies to run this project.
 
-This can be done by doing `pip install pygame` on your command line.
+They are:
+
+- pyOpenGL (PyOpenGL-Accelerate not Required)
+- pyGLFW (Python wrapper for GLFW for windowing and context creation.)
+- Pyrr (Linear algebra and matrix manipulation functions)
+- Pillow (Loading images)
 
 Then just run the `game.py` file.
 
